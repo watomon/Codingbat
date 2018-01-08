@@ -3,9 +3,9 @@
 Given a string, return true if the string starts with "hi" and false otherwise.
 
 
-startHi("hi there") ¨ true
-startHi("hi") ¨ true
-startHi("hello hi") ¨ false
+startHi("hi there") ï¿½ï¿½ true
+startHi("hi") ï¿½ï¿½ true
+startHi("hello hi") ï¿½ï¿½ false
 */
 
 public boolean startHi(String str) {
@@ -17,7 +17,6 @@ public boolean startHi(String str) {
     }else{
       return false;    
     }
-  
   }
   
   /*Solution
