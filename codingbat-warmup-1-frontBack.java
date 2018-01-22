@@ -16,4 +16,4 @@ public String frontBack(String str) {
     // last + mid + first
     return str.charAt(str.length()-1) + mid + str.charAt(0);
     */
-  }
+}
